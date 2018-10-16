@@ -18,6 +18,10 @@ Message processing (standalone) application for processing sales notification me
 
 •	The data is stored in inmemory H2 database
 
+•	quantity field in Product DO refers to the number of sales
+
+•	Adjustments done to any products are nto counted as a sales
+
 
 # How to run the application?
 
