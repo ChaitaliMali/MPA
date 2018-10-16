@@ -20,7 +20,7 @@ Message processing (standalone) application for processing sales notification me
 
 •	quantity field in Product DO refers to the number of sales
 
-•	Adjustments done to any products are nto counted as a sales
+•	Adjustments done to any products are not counted as a sales /quantity count
 
 
 # How to run the application?
@@ -37,9 +37,10 @@ Message processing (standalone) application for processing sales notification me
 
 •	Use custom exceptions and handle it in more efficient way
 
-  
+•	Logging of the adjustments made can be handled in a different way
 
 
 
+ 
 
 
