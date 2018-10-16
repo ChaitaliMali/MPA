@@ -30,6 +30,9 @@ Message processing (standalone) application for processing sales notification me
 •	Data stored in memory can be done via caching technique.
 
 •	Log4j can be used for logging the logs in a file.
+
+•	Use custom exceptions and handle it in more efficient way
+
   
 
 
